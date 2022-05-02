@@ -2,6 +2,7 @@
 https://resilient-frangipane-a6328c.netlify.app
 
 ## Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/68656122/166231335-5bbf1600-e8d5-4538-bad2-38975022a2e9.png)
 
 ## Getting Started with Create React App
 
